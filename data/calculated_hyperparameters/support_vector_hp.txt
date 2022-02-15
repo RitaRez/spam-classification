@@ -1,0 +1,1 @@
+{"shrinking": true, "kernel": "linear", "gamma": "scale", "degree": 10}

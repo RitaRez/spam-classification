@@ -1,0 +1,1 @@
+{"n_estimators": 100, "min_samples_split": 2, "min_samples_leaf": 10, "max_depth": 5, "loss": "exponential", "criterion": "squared_error"}
